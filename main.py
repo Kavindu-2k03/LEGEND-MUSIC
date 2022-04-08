@@ -20,7 +20,7 @@ from core import (
 
 REPO = """
 👨‍💻**Legend Music Player**👨‍💻
-- Repo: [GitHub](https://github.com/LEGEND-AI/LEGEND-MUSIC)
+- Repo: [GitHub](https://github.com/Kavindu-2k03/LEGEND-MUSIC)
 - ⚜ [Owner](https://t.me/LegendBoy_XD) ⚜
 """
 
