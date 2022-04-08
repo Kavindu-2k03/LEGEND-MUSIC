@@ -63,3 +63,8 @@ en    English
 
 Music Player is licenced under the GNU Affero General Public License v3.0.
 Read more [here](./LICENSE).
+
+## Deploy
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FKavindu-2k03%2FLEGEND-MUSIC)
+
+
